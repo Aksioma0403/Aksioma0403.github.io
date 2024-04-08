@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    font-family: Arial;
+    background: linear-gradient(#003973,#E5E5BE);
+}
+
+
+
+.product-img {
+    width: 350px;
+}
+
+.product-buy {
+    padding: 15px 30px;
+    background: #4f89e6;
+    border: 0;
+    cursor: pointer;
+}
